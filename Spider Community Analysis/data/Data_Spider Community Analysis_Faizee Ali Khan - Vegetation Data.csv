@@ -1,0 +1,10 @@
+plot,habitat,woody,diversity,density1,density2,density3,avg.density,cover1,cover2,cover3,avg.cover,drive.link
+PNA,scrubland,yes,23,4,7,5,5.333333333,50,60,30,46.66666667,https://drive.google.com/drive/folders/1Ew7OXxJTK19VnTTrZpKaD_kYJA-y8gFv?usp=sharing
+PNB,scrubland,no,18,3,12,6,7,20,90,70,60,https://drive.google.com/drive/folders/1_kP_R3H5fDQ29d9aS1nL9yUrTQLRb2qd?usp=sharing
+PNC,scrubland,yes,13,18,14,40,24,70,75,100,81.66666667,https://drive.google.com/drive/folders/1wwhBqiu2g3DKCcSokYTp2HJY5ovTMhvO?usp=sharing
+PIA,disturbed,no,8,6,20,15,13.66666667,10,75,60,48.33333333,https://drive.google.com/drive/folders/1p3gJZ5AMxowQqt2_M9j4DEwlfBZYaIFO?usp=sharing
+PIB,disturbed,yes,16,10,10,14,11.33333333,65,20,25,36.66666667,https://drive.google.com/drive/folders/15797BNs4IK4YswG5obyw2AqFwBHOugXN?usp=sharing
+PIC,disturbed,no,13,8,8,9,8.333333333,40,45,40,41.66666667,https://drive.google.com/drive/folders/1plBTYHiibJK2d39SKneZWivx1haZExdT?usp=sharing
+PLA,lawn,no,5,80,80,80,80,98,98,98,98,https://drive.google.com/drive/folders/17uNDcqnZn9uwpini9QsuNMMhdOEIlXH7?usp=sharing
+PLB,lawn,no,4,160,160,160,160,100,100,100,100,https://drive.google.com/drive/folders/1eieBF3sy31u7ib_BrkJA_UVLrPUp2eLu?usp=sharing
+PLC,lawn,no,3,60,60,60,60,95,95,95,95,https://drive.google.com/drive/folders/1Osfkp5lM5KxXAHPVIq4m3Mzl7GNfCN7E?usp=sharing

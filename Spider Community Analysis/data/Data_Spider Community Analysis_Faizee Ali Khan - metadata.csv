@@ -1,0 +1,30 @@
+This sheet describes the column of the data in the following tabs of the spreadsheet,,
+,,
+1,Spider Data,
+,s.no,Serial Number
+,family,taxonomic family of the spider 
+,gen.code,Genus or Species of the spider upto whichever the identification could be done
+,count,number of spiders of that family/genus/sp. found in the plot
+,inat,link to the inaturalist observation
+,habitat,the habitat where the plot was demarcated
+,plot,plot code
+,date,date on which sampling of the plot was done
+,time,time at which sampling of the plot was done
+,sim.ind,"if there were two individuals which looked of the same species, same values on the records indicate this"
+,,
+2,Vegetation Data,
+,plot,Plot Code
+,woody,presence of  woody plants
+,Diversity,the no. of different species of plants counted through a visual survey
+,"density1,2,3","plant density in a quadrat, at 3 locations in the plot"
+,avg.density,average of those densities
+,"cover1,2,3","apeculated plant cover percentage in a quadrat, at 3 locations in the plot"
+,avg.cover,average of these cover values
+,drive.link,link to the drive folder with pictures of  the different species of plants found in a particular plot
+,,
+3,Plot codes,I selected 3 plots per vegetation type
+,PNA/B/C,natural plot A/B/C
+,PIA/B/C,Intermediate plot A/B/C
+,PLA/B/C,Lawn plot A/B/C
+,,
+4,"PNA/B/C,PIA/B/C, PLA/B/C","these tabs contain a subset of data from ""Spider Data"" segregated on the basis of plots"
